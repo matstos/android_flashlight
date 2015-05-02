@@ -2,5 +2,5 @@
 A really simple flashlight made for android phones.
 
 ## SDK
-The app was made with a targetSDK=21 and minSDK=8
+The app was made with targetSDK=21 and minSDK=8
 
